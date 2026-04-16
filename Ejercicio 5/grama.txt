@@ -1,0 +1,24 @@
+x = 5;
+
+y = x + 3;
+
+z = y - 2 + 4;
+
+a = 10;
+b = a + x - 3;
+
+si ( x ) entonces y = 2; sino y = 4;
+
+si ( y ) entonces
+    x = y + 1;
+sino
+    x = 0;
+
+si ( a ) entonces
+    si ( x ) entonces y = 1; sino y = 2;
+sino
+    y = 3;
+
+m = 1 + 2 + 3 + 4 - 5;
+
+n = m + x - y + z;
