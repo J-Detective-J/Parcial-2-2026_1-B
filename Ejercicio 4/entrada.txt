@@ -1,0 +1,19 @@
+Casos con operadores
+
+a + b * c
+a * b + c
+x + y * z + w
+10 + 20 * 30
+100 / 5 + 2
+a * b - c * d
+
+
+
+Casos con parentesis
+
+(a + b) * c
+a * (b + c)
+(x + y) * (z + w)
+(10 + 20) * 3
+( a + b ) * ( c - d )
+((a))
