@@ -1,7 +1,0 @@
-INSERT INTO usuarios { nombre: "Juan", edad: 25 };
-
-FIND usuarios WHERE edad > 18;
-
-UPDATE usuarios SET edad = 30 WHERE nombre == "Juan";
-
-DELETE FROM usuarios WHERE edad < 18;
